@@ -1,0 +1,11 @@
+git add .
+
+git commit -m "XXX"
+
+git push origin master  或者  git push -u origin master
+
+git clone git@github.com:userName/hello-word.git
+
+git fetch origin           //获取远程更新
+
+git merge origin/master    //将更新的内容合并到本地分支
